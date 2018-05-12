@@ -1,0 +1,37 @@
+_repo: Dwellers-in-Arcady--The-Story-of-an-Abandoned-Farm_28027
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fogarty, Thomas
+    alias: Fogarty, Thomas J.
+    birthdate: 1873
+    deathdate: 1938
+    gutenberg_agent_id: '33090'
+    url: http://www.gutenberg.org/2009/agents/33090
+covers:
+- cover_type: archival
+  image_path: 28027-h/images/book_cover.jpg
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_issued: '2009-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28027'
+  lccn: '19006662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abandoned farms -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Farm life -- Fiction'
+title: 'Dwellers in Arcady: The Story of an Abandoned Farm'
+url: http://www.gutenberg.org/ebooks/28027
